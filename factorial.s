@@ -21,4 +21,4 @@ main:
     ecall # Exit
 
 factorial:
-    # YOUR CODE HERE
+    addi a1, x0, 0
